@@ -1,7 +1,7 @@
 import React from "react";
 import { createRoot } from "react-dom/client"
-import ContactApp from "./components/Contact";
-import "./style/style.css"
+
+const element = <h1>Hello World!</h1>
 
 const root = createRoot(document.getElementById("root"))
-root.render(<ContactApp />)
+root.render(element)
