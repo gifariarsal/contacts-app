@@ -12,13 +12,13 @@ A simple Contacts App built with React and Vite.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/gifariarsal/contacts-app.git
+git clone https://github.com/gifariarsal/react-basic-exercise.git
 ```
 
 ### Step 2: Navigate to the Project
 
 ```bash
-cd contacts-app
+cd react-basic-exercise
 ```
 
 ### Step 3: Install Dependencies
