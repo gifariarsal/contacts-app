@@ -1,8 +1,38 @@
-# React + Vite
+# React Basic Exercise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a basic React app that demonstrates basic React concepts.
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Vite](https://vitejs.dev/): A fast frontend build tool that supports React and modern JavaScript features.
+
+## Getting Started
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/gifariarsal/react-basic-exercise.git
+```
+
+### Step 2: Navigate to the Project
+
+```bash
+cd react-basic-exercise
+```
+
+### Step 3: Install Dependencies
+
+```bash
+npm install
+```
+
+### Step 4: Run the App
+
+```bash
+npm run dev
+```
+
+Open http://localhost:5173 in your browser to see the app.
+
+Feel free to explore the source code to learn more!
