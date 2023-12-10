@@ -1,8 +1,16 @@
-# React + Vite
+# Counter App with Modified FizzBuzz Logic
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a simple Counter App that displays a count value with a modified FizzBuzz logic. The app is built using React and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Modified FizzBuzz Logic
+
+The FizzBuzz logic in this app is applied to the count value with a slight modification:
+
+- If the count is 0, it displays the count value.
+- If the count is divisible by 3, it displays "Fizz".
+- If the count is divisible by 5, it displays "Buzz".
+- If the count is divisible by both 3 and 5, it displays "FizzBuzz".
+
+Feel free to customize and enhance the app according to your needs!
